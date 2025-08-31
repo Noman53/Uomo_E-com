@@ -3,7 +3,7 @@ import React from "react";
 import Container from "../Container";
 import Flex from "../Flex";
 import Image from "../Image";
-import Logo from "/src/assets/Logo.png";
+import Logo from "/src/assets/logo.png";
 import { FiUser, FiSearch, FiHeart, FiShoppingCart, FiMenu, } from "react-icons/fi";
 import { Link } from "react-router-dom";
 
